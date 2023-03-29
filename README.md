@@ -48,14 +48,14 @@ json-server --watch db.json
 2. Clone this repository.
 
 ```
-
+https://github.com/piotrmielkeQA/Postman.git
 
 ```
 
 3. Open this collection is Postman or running collection by newman in command prompt using command: 
 
 ```
-newman run mycollection.json
+newman run CommentsTests.json
 
 ```
 
