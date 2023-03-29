@@ -6,9 +6,9 @@ To tests using JSON Server
 [JSON Server]([http://automationpractice.com/index.php](https://github.com/typicode/json-server))
 
 ## Technologies/Tools:
-- (Nodejs)(https://nodejs.org/en)
-- (Newman)(https://learning.postman.com/docs/collections/using-newman-cli/installing-running-newman/)
-- (Postman)(https://www.postman.com/)
+- [Nodejs](https://nodejs.org/en)
+- [Newman](https://learning.postman.com/docs/collections/using-newman-cli/installing-running-newman/)
+- [Postman](https://www.postman.com/)
 
 ## Installation of required applications :
 1. Install [Node JS](https://nodejs.org/en/download/)
@@ -19,6 +19,8 @@ npm install -g newman
 
 ```
 ## Preperation and running JSON Server before run tests
+
+Execute all the commands below in the terminal or command prompt
 
 1. Install JSON Server by command: 
 ```
