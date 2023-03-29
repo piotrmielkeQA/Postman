@@ -3,8 +3,7 @@ This project has basic API tests, written in Postman.
 In this project I used all methods like (GET, POST, DELETE, PUT, PATCH). 
 For every request I added basic tests (assertion of status code).
 
-To tests using JSON Server
-[JSON Server]([http://automationpractice.com/index.php](https://github.com/typicode/json-server))
+To tests using [JSON Server]([http://automationpractice.com/index.php](https://github.com/typicode/json-server))
 
 ## Technologies/Tools:
 - [Nodejs](https://nodejs.org/en)
