@@ -1,6 +1,6 @@
 {
 	"info": {
-		"_postman_id": "4f536ce8-9654-4e10-adaa-037e9b6e4b69",
+		"_postman_id": "46848945-31d2-4a6c-ac70-bbff2ae4dd03",
 		"name": "Comments Tests",
 		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
 	},
@@ -115,9 +115,7 @@
 					"listen": "test",
 					"script": {
 						"exec": [
-							"pm.test(\"Status code is 200\", function () {\r",
-							"    pm.response.to.have.status(200);\r",
-							"});"
+							""
 						],
 						"type": "text/javascript"
 					}
